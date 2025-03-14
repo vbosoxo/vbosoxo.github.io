@@ -1,10 +1,10 @@
-# 【2025-03-13】ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4\GPT-o3\Grok3\deepseek-r1）
+# 【2025-03-15】ChatGPT 中文版｜国内 ChatGPT 镜像网站免费推荐（支持 GPT-4\GPT-o3\Grok3\deepseek-r1）
 
-> 更新时间：2025/03/13
+> 更新时间：2025/03/15
 
 欢迎访问本项目！我们为大家整理了一些国内可用的 ChatGPT镜像网站资源，方便用户无需翻墙即可快速访问 GPT 的强大功能。
 
-同时提供了免费的使用教程，助您在国内使用上ChatGPT免费中文版镜像网站，**无限制使用GPT-4o、o1-preview**。
+同时提供了免费的使用教程，助您在国内使用上ChatGPT免费中文版镜像网站，**无限制使用GPT-4o、o1-preview、GPT-o3、deepseek、grok3**。
 
 ## 什么是ChatGPT中文版镜像网站？
 
